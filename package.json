@@ -1,0 +1,32 @@
+{
+  "name": "reactjs-webpack-babel",
+  "version": "1.0.0",
+  "description": "How to build a reactjs application with webpack and babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniyuu/reactjs-webpack-babel.git"
+  },
+  "author": "yuey-ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniyuu/reactjs-webpack-babel/issues"
+  },
+  "homepage": "https://github.com/daniyuu/reactjs-webpack-babel#readme",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.7.7",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "html-webpack-plugin": "^2.16.0",
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
